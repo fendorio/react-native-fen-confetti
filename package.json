@@ -1,11 +1,11 @@
 {
-  "name": "react-native-confetti",
+  "name": "react-native-fen-confetti",
   "version": "0.1.0",
   "description": "Raining confetti made with react native animations",
   "main": "confettiView.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cdvntr/react-native-confetti.git"
+    "url": "git+https://github.com/fendorio/react-native-fen-confetti.git"
   },
   "keywords": [
     "react-native",
@@ -17,8 +17,8 @@
   "author": "Codeventure",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cdvntr/react-native-confetti/issues"
+    "url": "https://github.com/fendorio/react-native-fen-confetti/issues"
   },
-  "homepage": "https://github.com/cdvntr/react-native-confetti#readme",
+  "homepage": "https://github.com/fendorio/react-native-fen-confetti#readme",
   "readmeFilename": "README.md"
 }
